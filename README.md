@@ -2,4 +2,4 @@
 
 ### I'm a Senior BAIS and Finance major at the Tippie College of Business at the University of Iowa.
 
-### ![image]({(https://www.linkedin.com/in/alec-goodman/)})
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=<https://www.linkedin.com/in/alec-goodman/>)](<https://www.linkedin.com/in/alec-goodman/>)
